@@ -1,0 +1,33 @@
+{
+    "types": [{
+        "id": 0,
+        "category": 0,
+        "name": "Personal",
+        "description": "Fireworks intended for recreational use during holiday celebrations."
+    }, {
+        "id": 1,
+        "category": 0,
+        "name": "little-uns",
+        "description": "These are basically snap-pops."
+    }, {
+        "id": 2,
+        "category": 0,
+        "name": "BIG-UNS",
+        "description": "BIG BOOM."
+    }, {
+        "id": 3,
+        "category": 1,
+        "name": "Construction",
+        "description": "Explosives intended for construction blasting/demolition."
+    }, {
+        "id": 4,
+        "category": 1,
+        "name": "REAL Personal",
+        "description": "Explosives intended for occupational use during Turf wars and/or making a point."
+    }, {
+        "id": 5,
+        "category": 1,
+        "name": "Business",
+        "description": "Nothing personal. Just business."
+    }]
+}
